@@ -392,8 +392,6 @@ var one = document.getElementById("nct").value;
             var mul9 = nine * 2;
 	 }
    var total = mul1 + mul2 + mul3 + mul4 + mul5 + mul6 + mul7 + mul8 + mul9;
-   
-   alert("Your Total Grade point is:" + total);
    var div = (total / 25);
-   alert("Your current GPA is :" + div);
+   alert("Your GPA is :" + div);
 }
