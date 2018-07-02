@@ -1,5 +1,5 @@
 function calc(){
-var one = document.getElementById("nct").value;
+var one = document.getElementById("pdm").value;
     
      if(one == "O" || one == "o")
 	 {
@@ -42,7 +42,7 @@ var one = document.getElementById("nct").value;
             var mul1 = one * 4;
 	 }
   
-    var two = document.getElementById("mm").value;
+    var two = document.getElementById("dbms").value;
     
         if(two == "O" || two == "o")
 	 {
@@ -84,7 +84,7 @@ var one = document.getElementById("nct").value;
             var two = 0;
            var mul2 = two * 3;
 	 }
-    var three = document.getElementById("ds").value;
+    var three = document.getElementById("java").value;
      if(three == "O" || three == "o")
 	 {
             var three = 10;
@@ -127,7 +127,7 @@ var one = document.getElementById("nct").value;
 	 }
 
 
-    var four = document.getElementById("se").value;
+    var four = document.getElementById("os").value;
     
     
     if(four == "O" || four == "o")
@@ -171,7 +171,7 @@ var one = document.getElementById("nct").value;
             var mul4 = four * 3;
 	 }
 
-    var five = document.getElementById("ca").value;
+    var five = document.getElementById("toc").value;
     
         if(five == "O" || five == "o")
 	 {
@@ -214,7 +214,7 @@ var one = document.getElementById("nct").value;
             var mul5 = five * 3;
 	 }
 
-    var six = document.getElementById("oops").value;
+    var six = document.getElementById("daa").value;
     
         
 
@@ -259,7 +259,7 @@ var one = document.getElementById("nct").value;
             var mul6 = six * 3;
 	 }
 
-    var seven = document.getElementById("mml").value;
+    var seven = document.getElementById("jpl").value;
     
     
     if(seven == "O" || seven == "o")
@@ -303,7 +303,7 @@ var one = document.getElementById("nct").value;
             var mul7 = seven * 2;
 	 }
   
-    var eight = document.getElementById("dsl").value;
+    var eight = document.getElementById("osl").value;
     
         
 
@@ -348,7 +348,7 @@ var one = document.getElementById("nct").value;
             var mul8 = eight * 2;
 	 }
 
-    var nine = document.getElementById("oopsl").value;
+    var nine = document.getElementById("dbl").value;
     
     
     if(nine == "O" || nine == "o")
